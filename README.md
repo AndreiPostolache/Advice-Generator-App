@@ -30,15 +30,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[![Screenshot-2023-04-01-at-16-06-43-Frontend-Mentor-Advice-generator-app.png](https://i.postimg.cc/nzsWC4QZ/Screenshot-2023-04-01-at-16-06-43-Frontend-Mentor-Advice-generator-app.png)](https://postimg.cc/0Msn4JfH)
+[![Screenshot-2023-04-01-at-16-06-24-Frontend-Mentor-Advice-generator-app.png](https://i.postimg.cc/PJ0TCfqV/Screenshot-2023-04-01-at-16-06-24-Frontend-Mentor-Advice-generator-app.png)](https://postimg.cc/YLNJVHYQ)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
